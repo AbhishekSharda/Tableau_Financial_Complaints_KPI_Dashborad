@@ -9,11 +9,17 @@ The dataset used for this project contained several features, including complain
 The Financial Complaints KPI Dashboard was designed to provide an easy-to-use interface for visualizing financial complaints data. It included several key features, including:
 
 Complaints by Product: A bar chart showing the number of complaints submitted for each product type.
+
 Complaints by State: A map showing the number of complaints submitted for each state.
+
 In Progress: A KPI indicating the number of complaints that are currently in progress.
+
 Disputed Rate: A KPI indicating the percentage of complaints that have been disputed by consumers.
+
 Resolved at No Cost: A KPI indicating the percentage of complaints that were resolved at no cost to the consumer.
+
 Dispute: A bar chart showing the number of complaints that have been disputed by consumers.
+
 Complaints by Media: A bar chart showing the number of complaints submitted via each media type.
 
 # Conclusion
